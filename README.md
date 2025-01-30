@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **haq.wazih@gmail.com**
 
-- ⚡ Fun fact **I love Math.**
+- ⚡ Fun fact **I love Maths.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
