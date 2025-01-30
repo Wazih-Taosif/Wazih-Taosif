@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wazih Taosif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, & Python**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 📫 How to reach me **haq.wazih@gmail.com**
 
-- ⚡ Fun fact **I love Maths.**
+- ⚡ Fun fact **I love Math.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/itz_wazih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_wazih" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
